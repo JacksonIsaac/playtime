@@ -24,6 +24,10 @@ up with donors.
 
 *We don't have a live site yet. Stay tuned!*
 
+The app would look something like the following.
+
+![Playtime Project App](doc/playtime_app.png)
+
 ### About Ruby for Good
 
 This project was born at Ruby for Good 2017.
